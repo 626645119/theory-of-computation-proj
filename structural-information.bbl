@@ -1,6 +1,185 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Dhillon%
+, Fan%
+\BCBL {}\ \BBA {} Guan%
+}{%
+Dhillon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+dhillon2001efficient}
+\APACinsertmetastar {%
+dhillon2001efficient}%
+\begin{APACrefauthors}%
+Dhillon, I\BPBI S.%
+, Fan, J.%
+\BCBL {}\ \BBA {} Guan, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficient clustering of very large document collections}
+  {Efficient clustering of very large document collections}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Data mining for scientific and engineering applications}
+  {Data mining for scientific and engineering applications}\ (\BPGS\ 357--381).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dhillon%
+, Mallela%
+\BCBL {}\ \BBA {} Modha%
+}{%
+Dhillon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+dhillon2003information}
+\APACinsertmetastar {%
+dhillon2003information}%
+\begin{APACrefauthors}%
+Dhillon, I\BPBI S.%
+, Mallela, S.%
+\BCBL {}\ \BBA {} Modha, D\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Information-theoretic co-clustering}
+  {Information-theoretic co-clustering}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the ninth ACM SIGKDD international
+  conference on Knowledge discovery and data mining} {Proceedings of the ninth
+  acm sigkdd international conference on knowledge discovery and data mining}\
+  (\BPGS\ 89--98).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dixon%
+\ \protect \BOthers {.}}{%
+Dixon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+dixon2012topological}
+\APACinsertmetastar {%
+dixon2012topological}%
+\begin{APACrefauthors}%
+Dixon, J\BPBI R.%
+, Selvaraj, S.%
+, Yue, F.%
+, Kim, A.%
+, Li, Y.%
+, Shen, Y.%
+\BDBL {}Ren, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Topological domains in mammalian genomes identified by
+  analysis of chromatin interactions} {Topological domains in mammalian genomes
+  identified by analysis of chromatin interactions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{485}{7398}{376--380}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Filippova%
+, Patro%
+, Duggal%
+\BCBL {}\ \BBA {} Kingsford%
+}{%
+Filippova%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+filippova2014identification}
+\APACinsertmetastar {%
+filippova2014identification}%
+\begin{APACrefauthors}%
+Filippova, D.%
+, Patro, R.%
+, Duggal, G.%
+\BCBL {}\ \BBA {} Kingsford, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Identification of alternative topological domains in
+  chromatin} {Identification of alternative topological domains in
+  chromatin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Algorithms for Molecular Biology}{9}{1}{1--11}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guha%
+, Kumar%
+, Raghavan%
+\BCBL {}\ \BBA {} Tomkins%
+}{%
+Guha%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+guha2004propagation}
+\APACinsertmetastar {%
+guha2004propagation}%
+\begin{APACrefauthors}%
+Guha, R.%
+, Kumar, R.%
+, Raghavan, P.%
+\BCBL {}\ \BBA {} Tomkins, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Propagation of trust and distrust} {Propagation of trust
+  and distrust}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 13th international conference on
+  World Wide Web} {Proceedings of the 13th international conference on world
+  wide web}\ (\BPGS\ 403--412).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Li%
+, Li%
+\BCBL {}\ \BBA {} Pan%
+}{%
+Li%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+li2015discovering}
+\APACinsertmetastar {%
+li2015discovering}%
+\begin{APACrefauthors}%
+Li, A.%
+, Li, J.%
+\BCBL {}\ \BBA {} Pan, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Discovering natural communities in networks}
+  {Discovering natural communities in networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physica A: Statistical Mechanics and its
+  Applications}{436}{}{878--896}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Li%
 \ \BBA {} Pan%
 }{%
@@ -32,6 +211,97 @@ Li, A.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1109/TIT.2016.2555904} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lieberman-Aiden%
+\ \protect \BOthers {.}}{%
+Lieberman-Aiden%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+lieberman2009comprehensive}
+\APACinsertmetastar {%
+lieberman2009comprehensive}%
+\begin{APACrefauthors}%
+Lieberman-Aiden, E.%
+, Van~Berkum, N\BPBI L.%
+, Williams, L.%
+, Imakaev, M.%
+, Ragoczy, T.%
+, Telling, A.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comprehensive mapping of long-range interactions reveals
+  folding principles of the human genome} {Comprehensive mapping of long-range
+  interactions reveals folding principles of the human genome}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{science}{326}{5950}{289--293}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Long%
+, Zhang%
+\BCBL {}\ \BBA {} Yu%
+}{%
+Long%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+long2005co}
+\APACinsertmetastar {%
+long2005co}%
+\begin{APACrefauthors}%
+Long, B.%
+, Zhang, Z.%
+\BCBL {}\ \BBA {} Yu, P\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Co-clustering by block value decomposition}
+  {Co-clustering by block value decomposition}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the eleventh ACM SIGKDD international
+  conference on Knowledge discovery in data mining} {Proceedings of the
+  eleventh acm sigkdd international conference on knowledge discovery in data
+  mining}\ (\BPGS\ 635--640).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+, Liu%
+\BCBL {}\ \BBA {} Gong%
+}{%
+Xu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+xu2003document}
+\APACinsertmetastar {%
+xu2003document}%
+\begin{APACrefauthors}%
+Xu, W.%
+, Liu, X.%
+\BCBL {}\ \BBA {} Gong, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Document clustering based on non-negative matrix
+  factorization} {Document clustering based on non-negative matrix
+  factorization}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 26th annual international ACM SIGIR
+  conference on Research and development in informaion retrieval} {Proceedings
+  of the 26th annual international acm sigir conference on research and
+  development in informaion retrieval}\ (\BPGS\ 267--273).
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
