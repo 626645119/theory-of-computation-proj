@@ -1,0 +1,37 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Li%
+\ \BBA {} Pan%
+}{%
+Li%
+\ \BBA {} Pan%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+li_structural_2016}
+\APACinsertmetastar {%
+li_structural_2016}%
+\begin{APACrefauthors}%
+Li, A.%
+\BCBT {}\ \BBA {} Pan, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structural {Information} and {Dynamical} {Complexity} of
+  {Networks}} {Structural {Information} and {Dynamical} {Complexity} of
+  {Networks}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Information
+  Theory}{62}{6}{3290--3339}.
+\newblock
+\begin{APACrefURL}
+  [{2021-09-27}]\url{http://ieeexplore.ieee.org/document/7456290/}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/TIT.2016.2555904} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
